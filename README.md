@@ -2,7 +2,7 @@
 This project is a fully structured SQL-based Library Management System designed to manage books, borrowers, authors, branches, and book loans efficiently. It includes complete database creation, table design, relationships using foreign keys, and real-world SQL queries used in library operations.
 # 📑 Table of Contents
 
-1. [Project Description]
+1. [Project Description](#Project_Description)
 2. [Database Schema Overview](#database-schema-overview)
    * [Publisher](#1-publisher--tbl_publisher)
    * [Book](#2-book--tbl_book)
@@ -11,11 +11,10 @@ This project is a fully structured SQL-based Library Management System designed 
    * [Book Copies](#5-book-copies--tbl_book_copies)
    * [Borrower](#6-borrower--tbl_borrower)
    * [Book Loans](#7-book-loans--tbl_bookloans)
-3. [ER Diagram](#er-diagram)
-4. [SQL Queries Included](#sql-queries-included)
-5. [How to Run](#how-to-run)
-6. [Features](#features)
-7. [Future Enhancements](#future-enhancements)
+3. [SQL Queries Included](#sql-queries-included)
+4. [How to Run](#how-to-run)
+5. [Features](#features)
+6. [Future Enhancements](#future-enhancements)
 
 
 #  Project Description
@@ -37,7 +36,7 @@ This project demonstrates SQL features like:
 * Cascading foreign key constraints
 * Integrity checks
 * Well-normalized table structure
-
+---
 
 #  Database Schema Overview
 
