@@ -1,6 +1,6 @@
 # LiberyManagementSystem
 This project is a fully structured SQL-based Library Management System designed to manage books, borrowers, authors, branches, and book loans efficiently. It includes complete database creation, table design, relationships using foreign keys, and real-world SQL queries used in library operations.
-# 📑 Table of Contents
+#  Table of Contents
 
 1. [Project Description](#Project_Description)
 2. [Database Schema Overview](#database-schema-overview)
